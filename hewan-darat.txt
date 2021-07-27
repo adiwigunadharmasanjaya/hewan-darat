@@ -1,7 +1,7 @@
 * HEWAN BERKAKI EMPAT
 -sapi
-
+-anjing
 * HEWAN BERKAKI DUA
 -ayam
-
+-bebek
 * HEWAN TIDAK BERKAKI
